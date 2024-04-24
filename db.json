@@ -207,6 +207,24 @@
          "name": "Men's Bags"
       }
    ],
+   "authors": [
+    {
+      "id": "1",
+      "firstName": "Nick",
+      "lastName": "Lee",
+      "numPosts": 5,
+      "numComments": 24,
+      "numLikes": 105
+    },
+    {
+      "id": "2",
+      "firstName": "Olga",
+      "lastName": "Kolotilo",
+      "numPosts": 15,
+      "numComments": 27,
+      "numLikes": 89
+    }
+  ],
    "posts": [{
         "id": "1",
         "title": "How to choose a backpack?",
